@@ -15,6 +15,10 @@ MegaBank was created with the intention of being an activity for the MegaJr sele
 ## Main Page
 ![Página principal MB](https://user-images.githubusercontent.com/86243704/193463526-e7b085e4-a8d0-4a00-b371-0f29d52afdad.png)
 
+# Technologies 
+## Front-end
+- HTML / CSS / JS
+- VUE3
 
 ## Project setup
 ```
